@@ -1,10 +1,20 @@
 # What Can Neural Networks Reason About?
 
-## True:
+## By: 
+
+Keyulu Xu, Jingling Li, Mozhi Zhang, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka
+
+## Conference:
+
+ICLR 2022
+
+## The Transcendentals:
+
+### The True:
 
 Develops a formal framework to define similarity between task and network structure.
 
 
-## Good:
+### The Good:
 
-## Beautiful:
+### The Beautiful:
