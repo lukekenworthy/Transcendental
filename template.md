@@ -34,6 +34,14 @@ Give a 1-5 sentence summary and/or
 - Include bullets 
 - For other relevant points
 
+## Key Contribution(s):
+
+Give a 1-5 sentence summary and/or
+
+- Include bullets 
+- For other relevant points
+
+
 ## Other important details:
 
 - Use a bullet format for this
