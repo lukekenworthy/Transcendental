@@ -1,3 +1,2 @@
-# transcendental
-
-Repository for paper notes, summarizing what is true, good, and beautiful about each work.
+# Transcendental
+Repository for paper summaries, summarizing what is true, good, and beautiful about each work.
