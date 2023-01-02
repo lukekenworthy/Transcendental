@@ -46,6 +46,10 @@ Give a 1-5 sentence summary and/or
 
 - Use a bullet format for this
 
+## Other papers that might be of interest:
+
+- Use a bullet format for this
+
 ## Acronyms:
 - **ABRV1**: abbreviation 1 meaning
 - **ABRV2**: abbreviation 2 meaning
