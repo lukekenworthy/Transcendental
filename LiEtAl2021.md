@@ -1,5 +1,4 @@
-# [Dynamics of Disruption and Recovery in Air
-Transportation Networks](https://dinamo-archive.mit.edu/sites/default/files/documents/Li-etal-CEAS2021.pdf)
+# [Dynamics of Disruption and Recovery in Air Transportation Networks](https://dinamo-archive.mit.edu/sites/default/files/documents/Li-etal-CEAS2021.pdf)
 
 ## By: 
 
